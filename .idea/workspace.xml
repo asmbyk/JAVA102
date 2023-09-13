@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c96cdf6b-782c-4a45-8f59-a56a867b7cb9" name="Changes" comment="" />
+    <list default="true" id="c96cdf6b-782c-4a45-8f59-a56a867b7cb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/AdvantureGames/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/AdvantureGames/out/production/AdvantureGames/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/Collection/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/CriticalSectionsAndRaceCondition/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/GenericClass/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/GenericMethots/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/InheritanceKalitimExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/InheritanceKalitimExample/out/production/InheritanceKalitimExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/InterfaceKulanimi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/InterfaceKulanimi/out/production/InterfaceKulanimi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/JAVA102odev/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/Kalitim-Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/NesnedClasses/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/NesnedClasses/out/production/NesnedClasses/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/Runnable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/Runnable/out/production/Runnable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/ThreadSleep/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/ThreadSleep/out/production/ThreadSleep/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/WrapperSiniflar/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/asfafasf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/asfafasf/out/production/asfafasf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/ders10thread/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/ders12threadlab/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/ders2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/ders2/out/production/ders2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/hafta13_GUI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/hafta7ders1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/interfaceExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/interfaceExample/out/production/nesneye yönelik programlamanın 4 ilkesi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/interfacetv/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/m1asalsayithread/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/nesneyeYonelik4temelilkev2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/nesneyeYonelik4temelilkev2/out/production/nesneyeYonelik4temelilkev2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/sinav1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/sinav1/out/production/sinav1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/solindirme/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/soru 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/soru 3/out/production/soru 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/soru1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/soru4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/soru5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/soru5/out/production/soru5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/soyutsiniflarinterface/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/thread/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/thread/out/production/thread/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/txtdosyaproglemi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/txtdosyaproglemi/out/production/txtdosyaproglemi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/vizeExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/yazilimsinav/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kurucuConstructormetotlar/yazilimsinav/out/production/yazilimsinav/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +62,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2OKSZXgjNFnIMbBKFghVWkxxYp8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
@@ -31,5 +86,8 @@
       <updated>1681307835347</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
