@@ -1,0 +1,2 @@
+array listler vector göre daha hızlı vector sekron olarak calıstıgı için mal,yeti daha fazla
+ arraylistlerle kardes
